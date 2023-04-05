@@ -14,7 +14,7 @@ Using a mean square error “MSE” function to calculate the error between true
 
 #  Question2
 
-        For (R&D Spend, Administration, Marketing Spend, and	State column as input and decision is output:
+         For (R&D Spend, Administration, Marketing Spend, and	State column as input and decision is output:
     a.	Remove the null value. “Replace it with average value”.
     b.	Split value of dataset (70% for training and 30% testing)
     c.	Make a regression model to predict the test value.
